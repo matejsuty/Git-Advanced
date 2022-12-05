@@ -1,5 +1,7 @@
 'use strict'
 
-function cheer() {
-    console.log('Avangers');
+const teamName = 'Avangers';
+
+function cheer(team) {
+    console.log(`Team name: ${team}`);
 }
