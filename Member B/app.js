@@ -1,7 +1,7 @@
 'use strict';
 
-function count(age) {
-    return `Your age is ${age} !`;
+function count() {
+     console.log(3);
 }
 
 console.log(count(26));
