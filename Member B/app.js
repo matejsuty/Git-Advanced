@@ -1,7 +1,9 @@
 'use strict';
 
-function count(age, name) {
-    console.log(`Hello ${name} your age is ${age} :D`);
+
+function count(age) {
+    console.log(`Counting the countless ${age}`);
+
 }
 
 console.log(count(26,'dusan'));
