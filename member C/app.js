@@ -3,5 +3,5 @@
 const teamName = 'Avangers';
 
 function cheer(team) {
-    console.log(`Team name: ${team}`);
+    console.log(`Cheer for the ${team}`);
 }
