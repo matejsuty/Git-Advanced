@@ -1,7 +1,7 @@
 'use strict';
 
-function count(age) {
-    console.log(`Your age is ${age} :D`);
+function count(age, name) {
+    console.log(`Hello ${name} your age is ${age} :D`);
 }
 
-console.log(count(26));
+console.log(count(26,'dusan'));
