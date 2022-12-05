@@ -1,5 +1,9 @@
 'use strict'
 
-function Greet (name) {
-    console.log(`My programing language is Javasript`);
+const greeting = 'Greetings!';
+
+function Greet(name) {
+    console.log(name);
 }
+
+Greet(greeting);
