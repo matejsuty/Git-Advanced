@@ -1,6 +1,6 @@
 'use strict'
 
-const greeting = 'Greetings!';
+const greeting = 'Test';
 
 function Greet(name) {
     console.log(name);
