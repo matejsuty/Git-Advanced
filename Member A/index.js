@@ -2,8 +2,9 @@
 
 const greeting = 'Greetings!';
 
-function Greet(name, surname) {
-    console.log(name, surname);
+
+function Greet(name) {
+    console.log(`Greetings for the ${name}!!!`);
 }
 
 Greet(greeting);
