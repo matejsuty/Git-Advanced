@@ -1,5 +1,9 @@
 'use strict'
 
-function Greet (name) {
+const greeting = 'Greetings!';
+
+function Greet(name) {
     console.log(name);
 }
+
+Greet(greeting);
